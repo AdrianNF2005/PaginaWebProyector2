@@ -1,5 +1,5 @@
 
-let ID_PROYECTOR = 1; //Cambiar este ID en funcion del proyector asignado.
+let ID_PROYECTOR = 2; //Cambiar este ID en funcion del proyector asignado.
 
 var firebaseConfig = {
   apiKey: "AIzaSyDF_0fXUVHiauVr83vsVIqBMkoXjNzRKlY",
